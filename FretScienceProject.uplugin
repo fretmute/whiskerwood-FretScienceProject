@@ -1,7 +1,8 @@
 {
     "Name" : "Fret's Science Project",
     "Description" : "A proving ground for new ideas.",
-    "Version" : "0.0.0.1-Patch#28",
+    "Version" : "0.0.0.2+Patch#29",
     "CreatedBy" : "Fretmute",
-    "CreatedByURL" : "https://github.com/fretmute/"
+    "CreatedByURL" : "https://github.com/fretmute/",
+    "EngineVersion": "5.8"
 }
